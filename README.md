@@ -1,6 +1,6 @@
 # Mathematics-for-Machine-Learning
 
-This is the repository of ML Math foundation course. Feel free to check the notebooks for more information
+This is the repository of ML Math foundation. Feel free to check the notebooks for more information
 
 Tech stack: PyTorch, TensorFlow and numpy.
 
